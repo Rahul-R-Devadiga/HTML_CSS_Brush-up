@@ -11,3 +11,17 @@ body {
     background-size: cover;
 }
 
+.applyjoin{
+    display: flex;
+    justify-content: center;
+}
+
+.centerelements{
+    text-align: center;
+}
+
+.btn{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+}
