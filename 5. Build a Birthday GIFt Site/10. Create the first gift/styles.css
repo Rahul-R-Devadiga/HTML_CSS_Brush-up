@@ -47,3 +47,20 @@ Challenge:
 PS: the image should be 400px wide.
 */
 
+.gift-cover-img{
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 6px;
+}
+
+.gift-section{
+    margin-top: 50px;
+}
+
+.gift-title{
+    margin-bottom: 10px;
+}
+
+.gift-hint{
+    margin-top: 0px;
+}
