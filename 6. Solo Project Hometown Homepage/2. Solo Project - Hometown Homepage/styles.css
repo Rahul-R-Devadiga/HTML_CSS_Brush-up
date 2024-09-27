@@ -41,9 +41,9 @@ img {
 }
 
 #activities {
-    border: 10px solid black;
     margin-top: 0px;
     background-color: #A8DADC;
+    padding-top: 20px;
 }
 
 #activities h3 {
