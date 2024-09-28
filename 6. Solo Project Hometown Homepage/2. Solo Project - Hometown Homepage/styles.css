@@ -66,3 +66,28 @@ img {
 .img-round {
     border-radius: 50%;
 }
+
+#card{
+    margin: 10px auto;
+    width: 400px;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5%;
+}
+#card h3{
+    margin-top: 0px;
+}
+#card img{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+}
+#cardinfo{
+    margin: 10px;
+} 
